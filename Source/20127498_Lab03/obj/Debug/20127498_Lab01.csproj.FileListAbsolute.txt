@@ -1,0 +1,72 @@
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.AssemblyReference.cache
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\_20127498_Lab01.Properties.Resources.resources
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.GenerateResource.cache
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CoreCompileInputs.cache
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\20127498_Lab01.exe.config
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.dll
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.dll
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.WinForms.dll
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\System.Drawing.Common.dll
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.xml
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.xml
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\bin\Debug\SharpGL.WinForms.xml
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CopyComplete
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\20127498_Lab01\20127498_Lab01\obj\Debug\_20127498_Lab01.Form1.resources
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\20127498_Lab01.exe.config
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.dll
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.dll
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.WinForms.dll
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\System.Drawing.Common.dll
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.xml
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.xml
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\bin\Debug\SharpGL.WinForms.xml
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.AssemblyReference.cache
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\_20127498_Lab01.Form1.resources
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\_20127498_Lab01.Properties.Resources.resources
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.GenerateResource.cache
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CoreCompileInputs.cache
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CopyComplete
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab02\20127498_Lab01\obj\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\20127498_Lab01.exe.config
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.dll
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.dll
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.WinForms.dll
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\System.Drawing.Common.dll
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.xml
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.SceneGraph.xml
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\bin\Debug\SharpGL.WinForms.xml
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.AssemblyReference.cache
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\_20127498_Lab01.Form1.resources
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\_20127498_Lab01.Properties.Resources.resources
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.GenerateResource.cache
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CoreCompileInputs.cache
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.csproj.CopyComplete
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\20127498_Lab03 - Copy\20127498_Lab01\obj\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\20127498_Lab01.exe.config
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\20127498_Lab01.pdb
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.dll
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.SceneGraph.dll
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.WinForms.dll
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\System.Drawing.Common.dll
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.xml
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.SceneGraph.xml
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\bin\Debug\SharpGL.WinForms.xml
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.csproj.AssemblyReference.cache
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\_20127498_Lab01.Form1.resources
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\_20127498_Lab01.Properties.Resources.resources
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.csproj.GenerateResource.cache
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.csproj.CoreCompileInputs.cache
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.csproj.CopyComplete
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.exe
+D:\CuberNoPro\DHMT\Temp\20127498_Lab02\obj\Debug\20127498_Lab01.pdb
